@@ -36,4 +36,4 @@ build/
 mvnw
 mvnw.cmd
 src/main/resources
-.mvn
+.mvn/wrapper/maven-wrapper.properties
