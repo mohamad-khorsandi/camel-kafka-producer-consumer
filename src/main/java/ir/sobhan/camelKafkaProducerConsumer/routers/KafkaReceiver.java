@@ -1,6 +1,6 @@
-package com.example.cameltrain.routers;
+package ir.sobhan.camelKafkaProducerConsumer.routers;
 
-import com.example.cameltrain.service.SumService;
+import ir.sobhan.camelKafkaProducerConsumer.service.SumService;
 import lombok.RequiredArgsConstructor;
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.example.cameltrain;
+package ir.sobhan.camelKafkaProducerConsumer.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

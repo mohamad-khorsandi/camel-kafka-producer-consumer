@@ -35,3 +35,5 @@ build/
 *.jar
 mvnw
 mvnw.cmd
+src/main/resources
+.mvn

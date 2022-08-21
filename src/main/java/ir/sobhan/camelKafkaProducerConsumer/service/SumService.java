@@ -1,4 +1,4 @@
-package com.example.cameltrain.service;
+package ir.sobhan.camelKafkaProducerConsumer.service;
 
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
